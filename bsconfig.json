@@ -1,8 +1,13 @@
 {
   "name": "bsexpress-repro",
   "version": "0.1.0",
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "suffix": ".mjs",
   "sources": {
-    "dir" : "src",
-    "subdirs" : true
+    "dir": "src",
+    "subdirs": true
   }
 }
