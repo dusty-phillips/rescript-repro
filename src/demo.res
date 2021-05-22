@@ -1,2 +1,4 @@
+open Express
 
-Js.log("Hello, ReScript")
+let app = express()
+
