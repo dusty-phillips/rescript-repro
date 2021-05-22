@@ -14,6 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "rescript": "^9.1.2"
+  },
+  "dependencies": {
+    "bs-express": "^1.0.2"
   }
 }
-
